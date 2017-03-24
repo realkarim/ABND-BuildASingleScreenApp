@@ -39,14 +39,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/short_name"
-        android:textColor="@color/colorAccent"
-        android:textSize="@dimen/textSize" />
-
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="@string/founded"
         android:textColor="@color/colorAccent"
         android:textSize="@dimen/textSize" />
@@ -91,5 +83,14 @@
         android:textColor="@color/colorAccent"
         android:textSize="@dimen/textSize" />
 
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginTop="15dp"
+        android:text="@string/date"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/textSize" />
 
 </LinearLayout>

@@ -4,12 +4,13 @@
     <string name="full_name"><b>Real Madrid Club de Fútbol</b></string>
 
     <string name="nicknames"><b>Nicknames:</b> Blancos (Whites) - Merengues (Meringues) - Vikingos (Vikings)</string>
-    <string name="short_name"><b>Short Name:</b> RM</string>
     <string name="founded"><b>Founded:</b> 6 March 1902; 115 years ago as Madrid Football Club</string>
     <string name="ground"><b>Ground:</b> Santiago Bernabéu Stadium</string>
     <string name="chairman"><b>Chairman:</b> Florentino Pérez</string>
     <string name="head_coach"><b>Head Coach:</b> Zinedine Zidane</string>
     <string name="league"><b>League:</b> La Liga</string>
     <string name="website"><b>Website:</b> Club home page</string>
+
+    <string name="date"><b>Last Update: March 2017</b></string>
 
 </resources>
